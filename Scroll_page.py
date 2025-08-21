@@ -23,3 +23,4 @@ driver.execute_script("window.scrollBy(0,document.body.scrollHeight);")
 time.sleep(3)
 driver.get_screenshot_as_file(r"C:\Users\akshay.potdar\Downloads\screen.png")
 time.sleep(3)
+
